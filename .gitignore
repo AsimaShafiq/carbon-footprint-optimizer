@@ -1,0 +1,44 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# ---- Environment ----
+.env
+*.env
+.venv/
+venv/
+ENV/
+env.bak/
+conda_env/
+
+# ---- Jupyter Notebook ----
+.ipynb_checkpoints
+
+# ---- Logs ----
+*.log
+
+# ---- Data ----
+data/raw/*
+data/processed/*
+!data/.gitkeep  # Keep folder structure without data
+
+# ---- VS Code ----
+.vscode/
+.settings/
+
+# ---- Mac / Windows system files ----
+.DS_Store
+Thumbs.db
+
+# ---- Streamlit cache ----
+.streamlit/
+
+# ---- Backup files ----
+*~
