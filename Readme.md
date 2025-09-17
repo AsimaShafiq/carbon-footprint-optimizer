@@ -6,7 +6,7 @@ The **AI-Powered Carbon Footprint Optimizer** is an AI-driven system designed to
 This tool calculates carbon footprints based on **GHG Protocol standards**, forecasts future emissions, and recommends **cost-effective reduction strategies** with "what-if" scenario simulations.  
 The project will also integrate with BI dashboards (e.g., Power BI, Streamlit) to provide **real-time updates** when new data is ingested from APIs or databases.
 
----
+----
 
 ## 🎯 Key Features
 - **Data Ingestion & ETL**  
